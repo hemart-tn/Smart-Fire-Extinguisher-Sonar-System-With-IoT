@@ -149,7 +149,7 @@ SCAN:090 DIST:25
 
 ## 👨‍💻 Authors
 
-* Hemart (Hema Tata Nugraha)
+* Hema Tata Nugraha
 * Barron Aswin Saffir
 * Zulfi Azmi
 
