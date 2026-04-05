@@ -113,7 +113,7 @@ SCAN:090 DIST:25
 Tambahkan gambar di folder `/images` lalu tampilkan di sini:
 
 ```md
-![System](images/hasil.jpg)
+![Image](https://github.com/user-attachments/assets/252faf27-288d-4396-a185-a06925704149)
 ```
 
 ---
