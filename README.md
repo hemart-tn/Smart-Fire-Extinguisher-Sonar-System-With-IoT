@@ -111,12 +111,20 @@ SCAN:090 DIST:25
 ## 🖼️ Preview
 ---
 
-![Image](https://github.com/user-attachments/assets/252faf27-288d-4396-a185-a06925704149)
-Sonar System
-![Image](https://github.com/user-attachments/assets/85319567-b05e-4d5c-95b8-84ed52639153)
-Indoor
-![Image](https://github.com/user-attachments/assets/97d5f1a9-a54c-4cad-958f-10197fe42a5c)
-Outdoor
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/252faf27-288d-4396-a185-a06925704149" width="400"><br>
+  <b>Sonar System</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/85319567-b05e-4d5c-95b8-84ed52639153" width="400"><br>
+  <b>Indoor</b>
+</p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/97d5f1a9-a54c-4cad-958f-10197fe42a5c" width="400"><br>
+  <b>Outdoor</b>
+</p>
 
 ---
 
